@@ -1,4 +1,4 @@
-/*   Modified By Raj to Switch to V2*/
+/*   Modified By Raj to Switch to V2* raj /
 
 
 DROP TABLE IF EXISTS bi.fact_sub_panel_membership_V2 CASCADE;
